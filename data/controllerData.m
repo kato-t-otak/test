@@ -8,7 +8,7 @@ Kp = 0.0506692;
 Ki = 0.362974;
 
 % Controller sample time
-Ts = 0.05;
+Ts = 0.15;
 
 % Lookup table scaling data
 angle_sensor_range = [0.5 4.5];
